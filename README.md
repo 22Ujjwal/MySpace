@@ -4,5 +4,5 @@
 
 1. [Review Pandas code](https://github.com/22Ujjwal/MySpace/blob/main/pandasbrushup.ipynb) -->**Actual Pandas Implementation Guide😳** *playing with cool datasets*       
       
-   
+2. live soon
 **Happy Coding<>**
