@@ -6,6 +6,6 @@
 
    New notebook live soon
    
-2. **PROC PYTHON**; Essential tool in my SaS programming journey
+2. **PROC PYTHON** Essential tool in my SaS programming journey
    
 **Happy Coding<>**
