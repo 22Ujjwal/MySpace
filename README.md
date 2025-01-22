@@ -6,6 +6,6 @@
 
    New notebook live soon
    
-2. [**PROC PYTHON** & **PROC SQL** Essential tool in my SaS programming journey](https://github.com/22Ujjwal/WintiML/blob/main/AssessmentQ1_program.sas)
+2. [**PROC PYTHON** & **PROC SQL**](https://github.com/22Ujjwal/WintiML/blob/main/AssessmentQ1_program.sas) Essential tool in my SaS programming journey
    
 **Happy Coding<>**
