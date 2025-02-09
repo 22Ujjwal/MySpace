@@ -6,9 +6,4 @@
    
 2. [**PROC PYTHON** & **PROC SQL**](https://github.com/22Ujjwal/WintiML/blob/main/AssessmentQ1_program.sas) Essential tool in my SaS programming journey
 
-3. **Image Classifier 📷🏷️**
-*Classifies images into categories using machine learning models.*
-
-4. **AI Avatar Generator (Diffusion Models) ✨🎨**
-*Creates unique avatars with state-of-the-art diffusion-based AI.*
 **Happy Coding<>**
