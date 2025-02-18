@@ -8,6 +8,8 @@
 
 
 ## Daily Tracks
+I choose to post a small portions of learning here so that my commits help me maintain my learning tracks.
+
 -Learning is cool and whats even cooler is to build effienct fullstack project.
 Lol, life is fun. 
 
