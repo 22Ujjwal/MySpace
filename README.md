@@ -7,4 +7,8 @@
 2. [**PROC PYTHON** & **PROC SQL**](https://github.com/22Ujjwal/WintiML/blob/main/AssessmentQ1_program.sas) Essential tool in my SaS programming journey
 
 
+## Daily Tracks
+-Learning is cool and whats even cooler is to build effienct fullstack project.
+Lol, life is fun. 
+
 **Happy Coding<>**
