@@ -8,9 +8,12 @@
 
 
 ## Daily Tracks
-I choose to post a small portions of learning here so that my commits help me maintain my learning tracks.
+🔹 I choose to post a small portions of learning here so that my commits maintains my learning trails. 
 
--Learning is cool and whats even cooler is to build effienct fullstack project.
-Lol, life is fun. 
+🔹  Learning is cool and whats even cooler is to build effienct fullstack project.
+
+**Life is fun.** 
+
+Today-Friday evening I'm reading about [ANNs](https://www.geeksforgeeks.org/artificial-neural-networks-and-its-applications/) and [RNNs](https://www.geeksforgeeks.org/introduction-to-recurrent-neural-network/) would suggest referencing them in future. 
 
 **Happy Coding<>**
