@@ -14,6 +14,6 @@
 
 **Life is fun.** 
 
-Today-Friday evening I'm reading about [ANNs](https://www.geeksforgeeks.org/artificial-neural-networks-and-its-applications/) and [RNNs](https://www.geeksforgeeks.org/introduction-to-recurrent-neural-network/) would suggest referencing them in future. 
+Today-Friday evening I'm reading about [ANNs](https://www.geeksforgeeks.org/artificial-neural-networks-and-its-applications/) and [RNNs](https://www.geeksforgeeks.org/introduction-to-recurrent-neural-network/) would suggest referencing them in future. Neural Nets are my new friends!!
 
 **Happy Coding<>**
