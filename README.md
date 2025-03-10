@@ -14,6 +14,6 @@
 
 **Life is fun.** 
 
-I read about [ANNs](https://www.geeksforgeeks.org/artificial-neural-networks-and-its-applications/) and [RNNs](https://www.geeksforgeeks.org/introduction-to-recurrent-neural-network/) would suggest referencing them in future. Neural Nets are my new friends!! I am also reading IKIGAI, Does seem like my website needs a commit today, so journaling here. Working on it!
+I read about [ANNs](https://www.geeksforgeeks.org/artificial-neural-networks-and-its-applications/), CNNs and [RNNs](https://www.geeksforgeeks.org/introduction-to-recurrent-neural-network/) would suggest referencing them in future. Neural Nets are my new friends!! I am also reading IKIGAI, Does seem like my website needs a commit today, so journaling here. Working on it!
 
 **Happy Coding<>**
