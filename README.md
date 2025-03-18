@@ -4,7 +4,7 @@
 
 1. [**Review Pandas code**](https://github.com/22Ujjwal/MySpace/blob/main/pandasbrushup.ipynb) -->**Actual Pandas Implementation Guide😳** *playing with cool datasets*       
    
-2. [**PROC PYTHON** & **PROC SQL**](https://github.com/22Ujjwal/WintiML/blob/main/AssessmentQ1_program.sas) Essential tool in my SaS programming journey
+2. [**PROC PYTHON** & **PROC SQL**](https://github.com/22Ujjwal/WintiML/blob/main/AssessmentQ1_program.sas) Essential tool in my SaS programming.
 
 
 ## Daily Tracks
@@ -17,3 +17,6 @@
 I read about [ANNs](https://www.geeksforgeeks.org/artificial-neural-networks-and-its-applications/), CNNs and [RNNs](https://www.geeksforgeeks.org/introduction-to-recurrent-neural-network/) would suggest referencing them in future. Neural Nets are my new friends!! I am also reading IKIGAI, Does seem like my website needs a commit today, so journaling here. Working on it!
 
 **Happy Coding<>**
+
+At this moment I feel to do not spam with my small projects here. But I like it! whether or not I'll do it!
+
