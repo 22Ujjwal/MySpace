@@ -18,5 +18,3 @@ I read about [ANNs](https://www.geeksforgeeks.org/artificial-neural-networks-and
 
 **Happy Coding<>**
 
-At this moment I feel to do not spam with my small projects here. But I like it! whether or not I'll do it!
-
