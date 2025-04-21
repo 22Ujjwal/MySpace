@@ -1,6 +1,5 @@
-# MySpace!
+# MySpace - I post some random programs here 🖥️
 
-## I post so random programs here 🖥️
 *I built fun little projects :))* 
 
 1. [**Review Pandas code**](https://github.com/22Ujjwal/MySpace/blob/main/pandasbrushup.ipynb) -->**Actual Pandas Implementation Guide😳** *playing with cool datasets*       
